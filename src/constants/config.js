@@ -1,10 +1,10 @@
 // Environment configuration
 export const CONTRACT_ADDRESS = 
-  import.meta.env.VITE_CONTRACT_ADDRESS || "PASTE_CA_HERE";
+  import.meta.env.VITE_CONTRACT_ADDRESS || "8N1M7Kx6EUqhF2AQhSnpepBQA7JJh8o1T97wRxd7JY9c";
 
 export const BUY_URL = 
   import.meta.env.VITE_BUY_URL || 
-  "https://dexscreener.com/solana/PASTE_PAIR_OR_USE_YOUR_LINK";
+  "https://dexscreener.com/solana/8N1M7Kx6EUqhF2AQhSnpepBQA7JJh8o1T97wRxd7JY9c";
 
 // Roadmap configuration
 export const ROADMAP_CONFIG = {
