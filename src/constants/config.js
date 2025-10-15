@@ -1,10 +1,10 @@
 // Environment configuration
 export const CONTRACT_ADDRESS = 
-  import.meta.env.VITE_CONTRACT_ADDRESS || "UPDATED_SOON";
+  import.meta.env.VITE_CONTRACT_ADDRESS || "0xe628dcb3f0ce02a86bd1e3136ab8229293ca4444";
 
 export const BUY_URL = 
   import.meta.env.VITE_BUY_URL || 
-  "https://dexscreener.com/bsc/UPDATED_SOON";
+  "https://dexscreener.com/bsc/0xe628dcb3f0ce02a86bd1e3136ab8229293ca4444";
 
 // Roadmap configuration
 export const ROADMAP_CONFIG = {
